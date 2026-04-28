@@ -39,4 +39,5 @@ def calcular():
 
 if __name__ == "__main__":
     calcular()
-    
+    git add Main.py
+    git commit -m "Implementação da calculadora"    
